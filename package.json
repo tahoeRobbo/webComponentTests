@@ -1,0 +1,22 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "description": "#### Objectives: ##### SWBAT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeTahoe/webcomponents.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeTahoe/webcomponents/issues"
+  },
+  "homepage": "https://github.com/CodeTahoe/webcomponents#readme",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}

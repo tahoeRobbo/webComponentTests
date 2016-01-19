@@ -1,0 +1,27 @@
+{
+  "name": "webcomponents",
+  "description": "#### Objectives: ##### SWBAT",
+  "main": "app.js",
+  "authors": [
+    "Eric Hodonsky <eric@codetahoe.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "components"
+  ],
+  "homepage": "https://github.com/CodeTahoe/webcomponents",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.2.3",
+    "director": "~1.2.8"
+  }
+}
